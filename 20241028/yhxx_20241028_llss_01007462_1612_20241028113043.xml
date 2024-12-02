@@ -1,0 +1,28 @@
+<annotation>
+	<folder>20241028</folder>
+	<filename>yhxx_20241028_llss_01007462_1612_20241028113043.jpg</filename>
+	<path>D:\imr\yhxx\202410\20241028\yhxx_20241028_llss_01007462_1612_20241028113043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>329.8247</cx>
+			<cy>162.7435</cy>
+			<w>46.1082</w>
+			<h>195.6467</h>
+			<angle>5.223185</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>
